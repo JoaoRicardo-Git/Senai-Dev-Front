@@ -1,0 +1,27 @@
+* {
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+header {
+
+        display: flex;
+        width: 1528px;
+        height: 71px;
+        background-color: #3750B3;
+        border: 0px 5px 0px 0px solid black;
+        color: #FFFFFF;
+        justify-content: space-between;
+    }
+
+.Imagem-Filme {
+
+    width: 1400px;
+    height: 350px;
+    position: relative;
+    left: 60px;
+    top: 50px;
+}
