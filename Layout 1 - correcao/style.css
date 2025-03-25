@@ -1,0 +1,35 @@
+*{
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+.cabecalho {
+
+    width: 100vw;
+    height: 71px;
+    background-color: #3750B3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalho p {
+
+    color: white;
+    margin-right: 28px;
+}
+
+.right {
+
+    display: flex;
+    margin-right: 60px;
+}
+
+.left {
+
+    margin-left: 80px;
+
+}
