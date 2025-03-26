@@ -42,8 +42,12 @@
 .imgs {
 
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transform: scale(0.92); /*Reduz a imagem para o tamanho que voce queira*/
+    margin-top: 40px;
+    margin-right: 10vw;
     margin-left: 10vw;
-    margin-top: 80px;
-    justify-content: space-around;
-
+    gap: 80px;
+    width: 100px;
 }
