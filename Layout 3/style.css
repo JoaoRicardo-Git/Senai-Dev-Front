@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Inter";
+}
+
+.cabecalho {
+    width: 100vw;
+    height: 71px;
+    background-color: #3750B3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalho p {
+
+    color: white;
+    margin-right: 28px;
+
+}
+
+.direito {
+
+    display: flex;
+    margin-right: 10vw;
+
+}
+
+.esquerdo {
+
+    margin-left: 10vw;
+
+}
+
+.img {
+
+    margin-top: 40px;
+    margin-left: 10vw;
+
+}
+
+.textos {
+
+    width: 30vw;
+    margin-left: 56vw;
+    margin-top: -750px;
+    font-size: 30px;
+    
+}
+
+h1 {
+
+    font-weight: normal;
+
+}
